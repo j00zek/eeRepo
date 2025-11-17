@@ -510,8 +510,8 @@ Version: 25.11.14.0948
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 9a35cf1de845de6c925b5b818193524b
-Size: 506730
+MD5Sum: 1d09fcb99c7a120a35e6695085f4de6b
+Size: 506728
 Filename: e2kodi-skin-blackharmony_25.11.14.0948_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  Standardowa skorka do e2Kodi
@@ -522,8 +522,8 @@ Version: 25.06.03.0652
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: fd013267a79adfea6e9d6790f6c6dd3b
-Size: 900192
+MD5Sum: b04c94231762fd10b9b1e5bccbf75e06
+Size: 900194
 Filename: e2kodi-skin-endriu-blackharmony-player-pig_25.06.03.0652_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  Dodatkowa skorka do e2Kodi
@@ -547,7 +547,7 @@ Version: 25.06.03.0640
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 050a4eaf15e18a33f63acd93e3a042b8
+MD5Sum: 5210519c2cdf91f0a6d2f0623e0e917c
 Size: 898762
 Filename: e2kodi-skin-endriu-blue-line_25.06.03.0640_all.ipk
 Source: http://github.com/j00zek/eePlugins
@@ -559,8 +559,8 @@ Version: 25.09.02.1051
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: f46a490e8a789caf38d9ee63c2f12055
-Size: 477394
+MD5Sum: e44a2d0616b3f5ca1ee9bcea6b42ce38
+Size: 477390
 Filename: e2kodi-skin-sq9-fullhdline_25.09.02.1051_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  Standardowa skorka do e2Kodi
@@ -571,7 +571,7 @@ Version: 25.09.02.1051
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 841cc6b30177b6eb586772dd65e870aa
+MD5Sum: c0923d5502f21debfdac806254bb0d6d
 Size: 478034
 Filename: e2kodi-skin-sq9-pli-fullnighthd-mod-m-py3_25.09.02.1051_all.ipk
 Source: http://github.com/j00zek/eePlugins
@@ -628,40 +628,40 @@ Description:  dynamiczna regulacja jasności LCD w uśpieniu
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.12
-Version: 25.11.16.0618
+Version: 25.11.17.0702
 Depends: libxml2, python3-core, python3-pycountry, python3-pycryptodome, python3-ctypes, python3-pycurl, python3-futures3, python3-isodate, python3-lxml, python3-misc, python3-pkgutil, python3-requests, python3-shell, python3-singledispatch, python3-pysocks, python3-websocket-client, python3-sqlite3
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 33abd6bb1da0d27bc051b470296c6bf7
-Size: 12525154
-Filename: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.12_25.11.16.0618_all.ipk
+MD5Sum: 1e17c11b6e7f623906fac590bb0c1803
+Size: 12525220
+Filename: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.12_25.11.17.0702_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  obsługa wtyczek Kodi-drm pod E2 z python 3.12 jak ATV 7.5.X
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.13
-Version: 25.11.16.0618
+Version: 25.11.17.0702
 Depends: libxml2, python3-core, python3-pycountry, python3-pycryptodome, python3-ctypes, python3-pycurl, python3-futures3, python3-isodate, python3-lxml, python3-misc, python3-pkgutil, python3-requests, python3-shell, python3-singledispatch, python3-pysocks, python3-websocket-client, python3-sqlite3
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 483006a05dc3cecfb9723d6246cada63
-Size: 12689882
-Filename: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.13_25.11.16.0618_all.ipk
+MD5Sum: 89582384ae090117acb034ceb7e313cf
+Size: 12689970
+Filename: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.13_25.11.17.0702_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  obsługa wtyczek Kodi-drm pod E2 z python 3.13 jak ATV 7.6
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.9
-Version: 25.11.16.0618
+Version: 25.11.17.0702
 Depends: libxml2, python3-core, python3-pycountry, python3-pycryptodome, python3-ctypes, python3-pycurl, python3-futures3, python3-isodate, python3-lxml, python3-misc, python3-pkgutil, python3-requests, python3-shell, python3-singledispatch, python3-pysocks, python3-websocket-client, python3-sqlite3
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 278e8b126c43f62ee68ebaaa0e7c8f94
-Size: 12046132
-Filename: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.9_25.11.16.0618_all.ipk
+MD5Sum: c52aa7ed9361bee3eb0ddba267805fb0
+Size: 12046200
+Filename: enigma2-plugin-extensions--j00zeks-e2kodi-v2-python3.9_25.11.17.0702_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  obsługa wtyczek Kodi-drm pod E2 z python 3.9 jak openPLi 9.1
 Priority: optional
