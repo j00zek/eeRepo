@@ -680,14 +680,14 @@ Description:  synchronizuje listy kanalow NC i CP
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-j00zekopkgmgr
-Version: 25.11.16.0602
+Version: 25.11.17.0659
 Depends: enigma2---j00zeks-components
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 7d98fe0ec890933ba6e43bfadaca0119
-Size: 43750
-Filename: enigma2-plugin-extensions--j00zeks-j00zekopkgmgr_25.11.16.0602_all.ipk
+MD5Sum: c49d356b5e548e0b3fcfb7859567e84e
+Size: 43948
+Filename: enigma2-plugin-extensions--j00zeks-j00zekopkgmgr_25.11.17.0659_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  Alternatywny menadzer opkg
 Priority: optional
