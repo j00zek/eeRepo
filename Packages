@@ -731,14 +731,14 @@ Description:  usypia tuner po restarcie tylko gdy tuner wczesniej spal
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-msnweather-np
-Version: 26.07.14.1308
+Version: 26.08.17.0706
 Depends: enigma2---j00zeks-components
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 6376797bfcb07268896c1f5c888c57f2
-Size: 1695206
-Filename: enigma2-plugin-extensions--j00zeks-msnweather-np_26.07.14.1308_all.ipk
+MD5Sum: 47da7f7a792a8c7b7abeb504a2a9dc8c
+Size: 1702648
+Filename: enigma2-plugin-extensions--j00zeks-msnweather-np_26.08.17.0706_all.ipk
 Description:  Pogoda i dane o jakosci powietrza z MSN, airly, GIOS, looko2 i innych
 Priority: optional
 
