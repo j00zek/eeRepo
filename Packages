@@ -790,18 +790,6 @@ Source: http://github.com/j00zek/eePlugins
 Description:  UserSkins configuration tool
 Priority: optional
 
-Package: enigma2-plugin-extensions--j00zeks-wimbledonscores
-Version: 26.07.02.1028
-Section: utils
-Architecture: all
-Maintainer: j00zek
-MD5Sum: aaacc49f9bd211e3db22405fc2db12ef
-Size: 8988
-Filename: enigma2-plugin-extensions--j00zeks-wimbledonscores_26.07.02.1028_all.ipk
-Source: http://github.com/j00zek/eePlugins
-Description:  Grafik i wyniki na zywo mecz\xc3\xb3w na Wimbledonie
-Priority: optional
-
 Package: enigma2-plugin-picons--j00zeks-animated-burnt-by-adek-xpicon-size-220x132
 Version: 18.10.02.0739
 Section: utils
