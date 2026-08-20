@@ -615,6 +615,18 @@ Source: http://github.com/j00zek/eePlugins
 Description:  manages softcams
 Priority: optional
 
+Package: enigma2-plugin-extensions--j00zeks-atp-wta-tour-by-takisobieludek
+Version: 26.08.20.1414
+Section: utils
+Architecture: all
+Maintainer: TakiSobieLudek
+MD5Sum: 95dc4a4797b0f976b76ad1d0e38197fe
+Size: 29134
+Filename: enigma2-plugin-extensions--j00zeks-atp-wta-tour-by-takisobieludek_26.08.20.1414_all.ipk
+Source: http://github.com/j00zek/eePlugins
+Description:  Grafik i wyniki na zywo mecz\xc3\xb3w w tenisowych turniejach
+Priority: optional
+
 Package: enigma2-plugin-extensions--j00zeks-dynamiclcdbrightness
 Version: 22.04.05.0706
 Section: utils
