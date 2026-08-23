@@ -679,14 +679,14 @@ Description:  obs\xc5\x82uga wtyczek Kodi-drm pod E2 z python 3.14
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-epg-additional-pl-sources
-Version: 26.07.07.1640
+Version: 26.08.23.0634
 Depends: python3-lxml
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 33d158c649f88a0a0a7d7fcc1dbbdf6e
-Size: 211512
-Filename: enigma2-plugin-extensions--j00zeks-epg-additional-pl-sources_26.07.07.1640_all.ipk
+MD5Sum: 2e0b419e5769ae6f863cf6335b58ba39
+Size: 211610
+Filename: enigma2-plugin-extensions--j00zeks-epg-additional-pl-sources_26.08.23.0634_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  zebrane i dostosowane zrodla EPG roznych autorow
 Priority: optional
