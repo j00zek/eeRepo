@@ -778,6 +778,18 @@ Source: http://github.com/j00zek/eePlugins
 Description:  wersja zmodyfikowana przez koleg\xc4\x99 Kos
 Priority: optional
 
+Package: enigma2-plugin-extensions--j00zeks-sportsviewer
+Version: 26.08.28.1556
+Section: utils
+Architecture: all
+Maintainer: TakiSobieLudek
+MD5Sum: 23301a0087a8fc693d6504aaf7bea3b1
+Size: 370432
+Filename: enigma2-plugin-extensions--j00zeks-sportsviewer_26.08.28.1556_all.ipk
+Source: http://github.com/j00zek/eePlugins
+Description:  Grafik i wyniki na zywo mecz\xc3\xb3w r\xc3\xb3\xc5\xbcnych dyscyplin
+Priority: optional
+
 Package: enigma2-plugin-extensions--j00zeks-userskin
 Version: 25.09.10.1106
 Section: utils
@@ -788,20 +800,6 @@ Size: 200616
 Filename: enigma2-plugin-extensions--j00zeks-userskin_25.09.10.1106_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  UserSkins configuration tool
-Priority: optional
-
-Package: enigma2-plugin-extensions-sportsviewer
-Version: 1.1.2
-Provides: enigma2-plugin-extensions-apisportsviewer
-Replaces: enigma2-plugin-extensions-apisportsviewer
-Conflicts: enigma2-plugin-extensions-apisportsviewer
-Section: extra
-Architecture: all
-Maintainer: Turnieje sportowe
-MD5Sum: 48009b593bb55d7675fcacab4f1e6c46
-Size: 370866
-Filename: enigma2-plugin-extensions--j00zek-sportsviewer_1.1.2_all.ipk
-Description:  Wielodyscyplinowe terminarze i wyniki dla Enigma2
 Priority: optional
 
 Package: enigma2-plugin-picons--j00zeks-animated-burnt-by-adek-xpicon-size-220x132
