@@ -628,40 +628,40 @@ Description:  dynamiczna regulacja jasności LCD w uśpieniu
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-e2kodi-atv751-atv74
-Version: 26.09.17.1950
+Version: 26.09.17.2159
 Depends: enigma2-plugin-systemplugins-serviceapp, libxml2, python3-core, python3-ctypes, python3-futures3, python3-isodate, python3-lxml, python3-misc, python3-pkgutil, python3-pycountry, python3-pycryptodome, python3-pycurl, python3-requests, python3-shell, python3-singledispatch, python3-pysocks, python3-websocket-client, python3-sqlite3, python3-trio
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: cb079e585df9b0069feca025314ee74b
-Size: 9078796
-Filename: enigma2-plugin-extensions--j00zeks-e2kodi-atv751-atv74_26.09.17.1950_all.ipk
+MD5Sum: a26b9b9bddc68b498c3feb33659c671c
+Size: 9083196
+Filename: enigma2-plugin-extensions--j00zeks-e2kodi-atv751-atv74_26.09.17.2159_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  obs\xc5\x82uga wtyczek Kodi-drm pod E2 z python 3.12
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-e2kodi-atv76-hyperionx2
-Version: 26.09.17.1950
+Version: 26.09.17.2158
 Depends: duktape, enigma2-plugin-systemplugins-serviceapp, libxml2, python3-beautifulsoup4, python3-core, python3-ctypes, python3-futures3, python3-isodate, python3-lxml, python3-misc, python3-pkgutil, python3-pycountry, python3-pycryptodome, python3-pycurl, python3-requests, python3-shell, python3-singledispatch, python3-pysocks, python3-websocket-client, python3-sqlite3, python3-trio, python3-zoneinfo
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: a5afccbefa7ccbc87a69a6e2585b5af0
-Size: 9230064
-Filename: enigma2-plugin-extensions--j00zeks-e2kodi-atv76-hyperionx2_26.09.17.1950_all.ipk
+MD5Sum: 07ffd07f49c2b5c94b531873b92f317c
+Size: 9228704
+Filename: enigma2-plugin-extensions--j00zeks-e2kodi-atv76-hyperionx2_26.09.17.2158_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  obs\xc5\x82uga wtyczek Kodi-drm pod E2 z python 3.13
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-e2kodi-atv8-py314
-Version: 26.09.17.1950
+Version: 26.09.17.2158
 Depends: duktape, enigma2-plugin-systemplugins-serviceapp, libxml2, python3-beautifulsoup4, python3-core, python3-ctypes, python3-futures3, python3-isodate, python3-lxml, python3-misc, python3-pkgutil, python3-pycountry, python3-pycryptodome, python3-pycurl, python3-requests, python3-shell, python3-singledispatch, python3-pysocks, python3-websocket-client, python3-sqlite3, python3-trio, python3-zoneinfo
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: afa7e3256e643a2ada4d75cc51f10c29
-Size: 9637074
-Filename: enigma2-plugin-extensions--j00zeks-e2kodi-atv8-py314_26.09.17.1950_all.ipk
+MD5Sum: cfbd8d244d9ee774adcc2a47164345e5
+Size: 9637714
+Filename: enigma2-plugin-extensions--j00zeks-e2kodi-atv8-py314_26.09.17.2158_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  obs\xc5\x82uga wtyczek Kodi-drm pod E2 z python 3.14
 Priority: optional
