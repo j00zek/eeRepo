@@ -679,6 +679,19 @@ Source: http://github.com/j00zek/eePlugins
 Description:  zebrane i dostosowane zrodla EPG roznych autorow
 Priority: optional
 
+Package: enigma2-plugin-extensions--j00zeks-iptvplayer-public
+Version: 26.10.14.1656
+Depends: enigma2-plugin-extensions-e2iplayer-deps python3-pycurl duktape
+Section: utils
+Architecture: all
+Maintainer: j00zek
+MD5Sum: 6c81243092914841d5ceaa33ce3553bf
+Size: 18314258
+Filename: enigma2-plugin-extensions--j00zeks-iptvplayer-public_26.10.14.1656_all.ipk
+Source: http://github.com/j00zek/eePlugins
+Description:  IPTVplayerPublic
+Priority: optional
+
 Package: enigma2-plugin-extensions--j00zeks-j00zekbouquets
 Version: 26.06.30.1059
 Depends: enigma2---j00zeks-components
