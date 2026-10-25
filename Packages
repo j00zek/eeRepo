@@ -685,8 +685,8 @@ Depends: enigma2-plugin-extensions-e2iplayer-deps python3-pycurl duktape
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: d55f775a5d08a22bb057812c1238f739
-Size: 20178782
+MD5Sum: 6bc86e7905af77cf41cf5cdb95fbd348
+Size: 20178786
 Filename: enigma2-plugin-extensions--j00zeks-iptvplayer-public_2026.10.25.02_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  IPTVplayerPublic
