@@ -667,27 +667,27 @@ Description:  obs\xc5\x82uga wtyczek Kodi-drm pod E2 z python 3.14
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-epg-additional-pl-sources
-Version: 26.08.23.0634
+Version: 26.10.28.0634
 Depends: python3-lxml
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 2e0b419e5769ae6f863cf6335b58ba39
-Size: 211610
-Filename: enigma2-plugin-extensions--j00zeks-epg-additional-pl-sources_26.08.23.0634_all.ipk
+MD5Sum: 25cdde23427328a5b8ef635ce8f2bd46
+Size: 211664
+Filename: enigma2-plugin-extensions--j00zeks-epg-additional-pl-sources_26.10.28.0634_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  zebrane i dostosowane zrodla EPG roznych autorow
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-iptvplayer-public
-Version: 2026.10.26.02
-Depends: enigma2-plugin-extensions-e2iplayer-deps python3-pycurl duktape
+Version: 2026.10.27.04
+Depends: enigma2-plugin-extensions-e2iplayer-deps python3-pycurl duktape libwebp-bin python3-pillow
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: e53e53b2ff236d07d773b13d0bd08759
-Size: 20296254
-Filename: enigma2-plugin-extensions--j00zeks-iptvplayer-public_2026.10.26.02_all.ipk
+MD5Sum: e2cf85f772332fc253b39699b8fd5682
+Size: 20338664
+Filename: enigma2-plugin-extensions--j00zeks-iptvplayer-public_2026.10.27.04_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  IPTVplayerPublic
 Priority: optional
