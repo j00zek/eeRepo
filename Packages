@@ -4,8 +4,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 67b4b8bc06ea813dd4477db6a3a6146e
-Size: 36838
+MD5Sum: b79030dec93a703a335862a43b37c269
+Size: 36840
 Filename: e2-j00zeks-bh-addon-allanimatedbuttons-disappear-dots_26.01.16.0618_all.ipk
 Source: NA
 Description:  allanimatedbuttons
@@ -17,8 +17,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: a40234069244e9d848e756574698b56d
-Size: 15064
+MD5Sum: 0201df63963b374a28e0e1c7c75096b6
+Size: 15066
 Filename: e2-j00zeks-bh-addon-allanimatedbuttons-growing-circles_26.01.16.0618_all.ipk
 Source: NA
 Description:  animowane klawisze w strylu rosn\xc4\x85cych k\xc3\xb3\xc5\x82ek
@@ -30,8 +30,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 6484b9e58a384079f49bd8983f0a7757
-Size: 12194
+MD5Sum: e6b6a9c0c90b9e234df30b6fa4a02fc9
+Size: 12196
 Filename: e2-j00zeks-bh-addon-allanimatedbuttons-growing-dots_26.01.16.0618_all.ipk
 Source: NA
 Description:  allanimatedbuttons
@@ -43,8 +43,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 580cbd6632d37d64cdb5974bc608dac7
-Size: 67738
+MD5Sum: f432a16f0be9392c2e388eb380115d9b
+Size: 67740
 Filename: e2-j00zeks-bh-addon-allanimatedbuttons-jump-dots_26.01.16.0618_all.ipk
 Source: NA
 Description:  allanimatedbuttons
@@ -56,7 +56,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 62896424363e2a6a9035daabcba89a05
+MD5Sum: 50a0c278f7c0046615b1c6c0f9187b20
 Size: 8348
 Filename: e2-j00zeks-bh-addon-allanimatedbuttons-moving-rectangle_26.01.16.0618_all.ipk
 Source: NA
@@ -69,7 +69,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 411d4e9b9484a568755d326f87915c4e
+MD5Sum: 901bbe168cc7a2bffee1b1739c815922
 Size: 19908
 Filename: e2-j00zeks-bh-addon-allanimatedbuttons-rotating-square_26.01.16.0618_all.ipk
 Source: NA
@@ -82,8 +82,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: ac748823ccbd82b4aff4a97511957229
-Size: 38432
+MD5Sum: 8ea32a3ae8f8bf7cc08d7d5a5e506d9a
+Size: 38436
 Filename: e2-j00zeks-bh-addon-allanimatedbuttons-running-dots_26.01.16.0618_all.ipk
 Source: NA
 Description:  allanimatedbuttons
@@ -95,7 +95,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: a5eae6b4f93fb18806637b53a308ebae
+MD5Sum: 6d5694335e5281c959c866981fd7bdb5
 Size: 8088
 Filename: e2-j00zeks-bh-addon-allanimatedbuttons-spinning-belt_26.01.16.0618_all.ipk
 Source: NA
@@ -108,7 +108,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: d085803c44cc945d5f2d0a3692d49999
+MD5Sum: dbde34757bb9f72faf30303d03f3040b
 Size: 534130
 Filename: e2-j00zeks-bh-addon-allbars-bar-black-menu_26.01.16.0618_all.ipk
 Source: NA
@@ -121,8 +121,8 @@ Depends: enigma2---j00zeks-components enigma2-plugin-skins--j00zeks-blackharmony
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 877af9b7bb2bc37a92f885daa0126ac4
-Size: 1730538
+MD5Sum: 8f6757535c735a549cbeafd90f2d9852
+Size: 1730540
 Filename: e2-j00zeks-bh-addon-allbars-bar-gold-menu_26.01.16.0618_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  blackharmonyfhd addon
@@ -134,7 +134,7 @@ Depends: enigma2---j00zeks-components enigma2-plugin-skins--j00zeks-blackharmony
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 0f3356534d5021d1ebbc68c6a4466c2c
+MD5Sum: 1415fe40422a2e90c029b26563358b4e
 Size: 31064
 Filename: e2-j00zeks-bh-addon-allbars-bar-gray-menu_26.01.16.0618_all.ipk
 Source: http://github.com/j00zek/eePlugins
@@ -147,8 +147,8 @@ Depends: enigma2---j00zeks-components enigma2-plugin-skins--j00zeks-blackharmony
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 6bb5b6e923c965235d502e944211dcba
-Size: 1356572
+MD5Sum: 2f49c252ec64286008afb18accc14cc8
+Size: 1356574
 Filename: e2-j00zeks-bh-addon-allbars-bar-green-menu_26.01.16.0618_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  blackharmonyfhd addon
@@ -160,8 +160,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 68ca64359016af60fd85d2f494dd646d
-Size: 18320
+MD5Sum: 876e0646eb8158448851e07229c9a6ba
+Size: 18318
 Filename: e2-j00zeks-bh-addon-allbuttons-belt-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -173,8 +173,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 6ac44182df47e7e19267649ec6065bc8
-Size: 19280
+MD5Sum: 1a1e90fb619489c63fcee05a73bee9ba
+Size: 19276
 Filename: e2-j00zeks-bh-addon-allbuttons-circle-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -186,8 +186,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 58c832fb35630b69c7c9f839d962757f
-Size: 44362
+MD5Sum: 740fb1948e94d5d7535a66aed27cc781
+Size: 44360
 Filename: e2-j00zeks-bh-addon-allbuttons-diamonds-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -199,8 +199,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 0ee834e96b65970949f435487055e76f
-Size: 11264
+MD5Sum: 94f8e71466ef7440e511841f98640790
+Size: 11262
 Filename: e2-j00zeks-bh-addon-allbuttons-donut-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -212,8 +212,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: ec0e032ebb56149d0a62034c98bb8001
-Size: 15252
+MD5Sum: f5f5becf301bc5365568d73f0a016304
+Size: 15254
 Filename: e2-j00zeks-bh-addon-allbuttons-life-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -225,8 +225,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 052213f22e9e14a73fc05a4cd05039ac
-Size: 27804
+MD5Sum: a2435189029d6a0db06d26b6de716613
+Size: 27808
 Filename: e2-j00zeks-bh-addon-allbuttons-lights-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -238,8 +238,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 816603c094e3eb357c609ce66df83483
-Size: 11842
+MD5Sum: f55b12b8355f68e68c49ec2b2932721a
+Size: 11846
 Filename: e2-j00zeks-bh-addon-allbuttons-oval-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -251,8 +251,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: fd22cf0b5cb5787d6b7deffe729c0779
-Size: 11566
+MD5Sum: 8d50efe903d85159741868641b6828dc
+Size: 11570
 Filename: e2-j00zeks-bh-addon-allbuttons-quad-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -264,7 +264,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: ddb85f11af17cd862b44b5b1bc4ac195
+MD5Sum: c77b3cee9de57232515c51ae8f633a5e
 Size: 8498
 Filename: e2-j00zeks-bh-addon-allbuttons-rectangle-buttons_26.01.16.0618_all.ipk
 Source: NA
@@ -277,8 +277,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: d5f15a185c071b37ce18a3286a8cfccf
-Size: 25374
+MD5Sum: bfcb4ab49b1dbba1d6b9749ae6fb9a68
+Size: 25376
 Filename: e2-j00zeks-bh-addon-allbuttons-rectangle-light-blue-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -290,7 +290,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 2af39528b1c1bc06b913b5d2224879b4
+MD5Sum: ba30aecf08972ac4e57720429a031c86
 Size: 33632
 Filename: e2-j00zeks-bh-addon-allbuttons-rectangle-mixed-buttons_26.01.16.0618_all.ipk
 Source: NA
@@ -303,8 +303,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 05ecf74f35b963b0d701deb95a03ec89
-Size: 41258
+MD5Sum: 1613b1cbf26c5a25304d12143ccb24ff
+Size: 41250
 Filename: e2-j00zeks-bh-addon-allbuttons-standard-mixed-buttons_26.01.16.0618_all.ipk
 Source: NA
 Description:  allbuttons
@@ -316,8 +316,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 96e34c0b4863c52fe8bab2c091eafe8d
-Size: 5912
+MD5Sum: d561b499ba0d71a700a3df57cdcd8ae7
+Size: 5916
 Filename: e2-j00zeks-bh-addon-allonoffswitches-style1_26.01.16.0618_all.ipk
 Source: NA
 Description:  allOnOffSwitches
@@ -329,7 +329,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 6c3ed4d5215b75af9f16ce052e7bf0e3
+MD5Sum: 2dbb612a982c65835c926e266843cf55
 Size: 5196
 Filename: e2-j00zeks-bh-addon-allonoffswitches-style2_26.01.16.0618_all.ipk
 Source: NA
@@ -342,7 +342,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: fcad5477e31cb21f6c2634e3b22929a4
+MD5Sum: ea580f93bceb41cd34b4e0798bfc6345
 Size: 4322
 Filename: e2-j00zeks-bh-addon-allonoffswitches-style3_26.01.16.0618_all.ipk
 Source: NA
@@ -355,7 +355,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: ea542efe644fd085761fe591c205377a
+MD5Sum: 84dd6152d0cd137203dce7a10a07b283
 Size: 4788
 Filename: e2-j00zeks-bh-addon-allonoffswitches-style4_26.01.16.0618_all.ipk
 Source: NA
@@ -368,7 +368,7 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 4efb1e0a9e5a22ab3e2ad8057dbf796a
+MD5Sum: 7edade62982c8a1a22b9c3834f24da9a
 Size: 8354
 Filename: e2-j00zeks-bh-addon-allonoffswitches-style5_26.01.16.0618_all.ipk
 Source: NA
@@ -381,8 +381,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: ec6feb17b50e60ddb99d0f2eb5d69147
-Size: 5936
+MD5Sum: 3dac5806d075f3a2f89b193a04e59149
+Size: 5934
 Filename: e2-j00zeks-bh-addon-allonoffswitches-style6_26.01.16.0618_all.ipk
 Source: NA
 Description:  allOnOffSwitches
@@ -394,8 +394,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 4fe3726c203d449e615f0ccf6770051f
-Size: 9432
+MD5Sum: 3a2f9e49336da6e3b4b83ab1ec91530b
+Size: 9436
 Filename: e2-j00zeks-bh-addon-allonoffswitches-style7_26.01.16.0618_all.ipk
 Source: NA
 Description:  allOnOffSwitches
@@ -407,8 +407,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: e516dccadc3736598d745f3fdaafd213
-Size: 2007476
+MD5Sum: 339a8dc02dba926172b973b6b2c3a4ab
+Size: 2007472
 Filename: e2-j00zeks-bh-addon-userspacks-screensbyciacho_26.01.16.0618_all.ipk
 Source: NA
 Description:  allscreens
@@ -433,8 +433,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: c22ac2d297ef7528caa38dfbe528aae2
-Size: 59492
+MD5Sum: 5a684fccec312f1dd20af1427ace7959
+Size: 59494
 Filename: e2-j00zeks-bh-addon-userspacks-screensbyjac_26.01.16.0618_all.ipk
 Source: NA
 Description:  allscreens
@@ -459,8 +459,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 3e30c0bcdd6ae9425b1747737bf91b57
-Size: 104854
+MD5Sum: f94aa8a1ef36fb431f2fd9acaacd516b
+Size: 104856
 Filename: e2-j00zeks-bh-addon-userspacks-screensbykos_26.01.16.0618_all.ipk
 Source: NA
 Description:  allscreens
@@ -472,8 +472,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: efe7b5ca3633dad551316f5012903342
-Size: 5594
+MD5Sum: 178ffc28e864e0f1242a601e8c29d482
+Size: 5592
 Filename: e2-j00zeks-bh-addon-userspacks-screensbymario_26.01.16.0618_all.ipk
 Source: NA
 Description:  allscreens
@@ -485,8 +485,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: bb57870df2ec5e714c589b5b94c6032a
-Size: 381730
+MD5Sum: 00b2816f5143f497f417337f64008129
+Size: 381728
 Filename: e2-j00zeks-bh-addon-userspacks-screensbynpf46_26.01.16.0618_all.ipk
 Source: NA
 Description:  allscreens
@@ -498,8 +498,8 @@ Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 0478eae9bee157d721749a261b9186f0
-Size: 235274
+MD5Sum: fe75ddd23b3138dd0da7b221942ab0d7
+Size: 235272
 Filename: e2-j00zeks-bh-addon-userspacks-variousauthorspack_26.01.16.0618_all.ipk
 Source: NA
 Description:  screens by abdi, aidan76, fhroma, Homar, moons, rafalcool, seven
@@ -1012,14 +1012,14 @@ Description:  zebrane transparentne pikony kolegi zet71, azma, endriu i innych
 Priority: optional
 
 Package: enigma2-plugin-skins--j00zeks-blackharmonyfhd
-Version: 26.10.28.0652
+Version: 26.10.28.0657
 Depends: enigma2---j00zeks-components enigma2-plugin-extensions--j00zeks-userskin
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: d90ee194e839a0033062a91b97493652
-Size: 24681952
-Filename: enigma2-plugin-skins--j00zeks-blackharmonyfhd_26.10.28.0652_all.ipk
+MD5Sum: a6091f205f94194918aad9d78d9a0fb3
+Size: 24692750
+Filename: enigma2-plugin-skins--j00zeks-blackharmonyfhd_26.10.28.0657_all.ipk
 Source: NA
 Description:  crash BlackHarmonyFHD multi image version mod by j00zek and friends
 Priority: optional
