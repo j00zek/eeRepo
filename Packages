@@ -780,14 +780,14 @@ Description:  wersja zmodyfikowana przez kolegę Kos
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-ovh-epg
-Version: 26.11.13.1250
+Version: 26.11.13.1524
 Depends: python3-lxml
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: edbffaf255ce4ea577d4efbaf747a946
-Size: 183890
-Filename: enigma2-plugin-extensions--j00zeks-ovh-epg_26.11.13.1250_all.ipk
+MD5Sum: d04aabc44eb05162b24cd63c712d7e43
+Size: 60850
+Filename: enigma2-plugin-extensions--j00zeks-ovh-epg_26.11.13.1524_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  Wtyczka mapuje referencje do EPG kana\xc5\x82ow z serwisu ovh
 Priority: optional
