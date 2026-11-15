@@ -616,15 +616,15 @@ Description:  manages softcams
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-dynamiclcdbrightness
-Version: 22.04.05.0706
+Version: 26.11.15.0742
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 0954d684f8a88db7c7048c6965311121
-Size: 8242
-Filename: enigma2-plugin-extensions--j00zeks-dynamiclcdbrightness_22.04.05.0706_all.ipk
+MD5Sum: d68184f47b9000e927de2f853ba0c412
+Size: 13524
+Filename: enigma2-plugin-extensions--j00zeks-dynamiclcdbrightness_26.11.15.0742_all.ipk
 Source: http://github.com/j00zek/eePlugins
-Description:  dynamiczna regulacja jasności LCD w uśpieniu
+Description:  dynamiczna regulacja jasno\xc5\x9bci LCD w u\xc5\x9bpieniu
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-e2kodi-atv751-atv74
