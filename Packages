@@ -731,14 +731,14 @@ Description:  min.automatyczne usypianie przy braku aktywnosci
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-mod-startuptostandby
-Version: 22.01.13.1147
+Version: 26.11.15.0728
 Depends: enigma2---j00zeks-components
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: d193bda3bb86a297c96c402f2f6e1013
-Size: 4164
-Filename: enigma2-plugin-extensions--j00zeks-mod-startuptostandby_22.01.13.1147_all.ipk
+MD5Sum: 9acbaac07b91c2a78fe544929934421c
+Size: 9218
+Filename: enigma2-plugin-extensions--j00zeks-mod-startuptostandby_26.11.15.0728_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  usypia tuner po restarcie tylko gdy tuner wczesniej spal
 Priority: optional
