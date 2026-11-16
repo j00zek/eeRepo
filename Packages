@@ -680,14 +680,14 @@ Description:  zebrane i dostosowane zrodla EPG roznych autorow
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-iptvplayer-public
-Version: 2026.11.14.01
+Version: 2026.11.15.04
 Depends: enigma2-plugin-extensions-e2iplayer-deps python3-pycurl duktape libwebp-bin python3-pillow
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: c2fb8488445759928806cb6d72e81e81
-Size: 20866532
-Filename: enigma2-plugin-extensions--j00zeks-iptvplayer-public_2026.11.14.01_all.ipk
+MD5Sum: 343a1b0cee357dcdd15683a01c2f17e0
+Size: 20882978
+Filename: enigma2-plugin-extensions--j00zeks-iptvplayer-public_2026.11.15.04_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  IPTVplayerPublic
 Priority: optional
@@ -817,13 +817,13 @@ Description:  Grafik i wyniki na zywo mecz\xc3\xb3w r\xc3\xb3\xc5\xbcnych dyscyp
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-userskin
-Version: 25.09.10.1106
+Version: 26.11.15.0931
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 3cd9d8d49f3b64b6dd98b8e273516ba2
-Size: 200616
-Filename: enigma2-plugin-extensions--j00zeks-userskin_25.09.10.1106_all.ipk
+MD5Sum: f900de76b76f959787c48185dca9683e
+Size: 201104
+Filename: enigma2-plugin-extensions--j00zeks-userskin_26.11.15.0931_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  UserSkins configuration tool
 Priority: optional
