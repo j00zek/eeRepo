@@ -817,13 +817,13 @@ Description:  Grafik i wyniki na zywo mecz\xc3\xb3w r\xc3\xb3\xc5\xbcnych dyscyp
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-userskin
-Version: 26.11.15.0931
+Version: 26.11.16.0857
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: f900de76b76f959787c48185dca9683e
-Size: 201104
-Filename: enigma2-plugin-extensions--j00zeks-userskin_26.11.15.0931_all.ipk
+MD5Sum: 5a5af13ee5029b4e8c74bf8bd472ae19
+Size: 201112
+Filename: enigma2-plugin-extensions--j00zeks-userskin_26.11.16.0857_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  UserSkins configuration tool
 Priority: optional
