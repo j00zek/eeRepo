@@ -414,19 +414,6 @@ Source: NA
 Description:  allscreens
 Priority: optional
 
-Package: e2-j00zeks-bh-addon-userspacks-screensbyendriu
-Version: 26.01.16.0618
-Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
-Section: utils
-Architecture: all
-Maintainer: j00zek
-MD5Sum: 7555909c6115a60a30b08d169427021e
-Size: 1050264
-Filename: e2-j00zeks-bh-addon-userspacks-screensbyendriu_26.01.16.0618_all.ipk
-Source: NA
-Description:  allscreens
-Priority: optional
-
 Package: e2-j00zeks-bh-addon-userspacks-screensbyjac
 Version: 26.01.16.0618
 Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
@@ -436,19 +423,6 @@ Maintainer: j00zek
 MD5Sum: 28dc0353e3b62505fd435000e2282f1b
 Size: 59494
 Filename: e2-j00zeks-bh-addon-userspacks-screensbyjac_26.01.16.0618_all.ipk
-Source: NA
-Description:  allscreens
-Priority: optional
-
-Package: e2-j00zeks-bh-addon-userspacks-screensbyjoozek
-Version: 26.01.16.0618
-Depends: enigma2-plugin-skins--j00zeks-blackharmonyfhd
-Section: utils
-Architecture: all
-Maintainer: j00zek
-MD5Sum: 0207bc39f36f24216436664f35539d2b
-Size: 11318
-Filename: e2-j00zeks-bh-addon-userspacks-screensbyjoozek_26.01.16.0618_all.ipk
 Source: NA
 Description:  allscreens
 Priority: optional
