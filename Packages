@@ -565,38 +565,38 @@ Description:  e2 components used in varius packages
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-advancedfreeplayer
-Version: 25.11.26.1210
+Version: 26.11.22.0801
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 9841a265fac355baae55ee1d0e17f2a6
-Size: 234720
-Filename: enigma2-plugin-extensions--j00zeks-advancedfreeplayer_25.11.26.1210_all.ipk
+MD5Sum: ca579a3b6c2df31a127f45c3d401729f
+Size: 235648
+Filename: enigma2-plugin-extensions--j00zeks-advancedfreeplayer_26.11.22.0801_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  plays videos using system and serviceapp routines, also downloads covers
  and movie infos from tmdb
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-alternativesoftcammanager
-Version: 22.04.04.1457
+Version: 26.11.22.0813
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 4d4bd7df0642a885ad2be0542aa4c004
-Size: 14792
-Filename: enigma2-plugin-extensions--j00zeks-alternativesoftcammanager_22.04.04.1457_all.ipk
+MD5Sum: fdb09fbae8ee680610b305e816e3b815
+Size: 14958
+Filename: enigma2-plugin-extensions--j00zeks-alternativesoftcammanager_26.11.22.0813_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  manages softcams
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-dynamiclcdbrightness
-Version: 26.11.15.0742
+Version: 26.11.22.0809
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: d68184f47b9000e927de2f853ba0c412
-Size: 13524
-Filename: enigma2-plugin-extensions--j00zeks-dynamiclcdbrightness_26.11.15.0742_all.ipk
+MD5Sum: b5353e05b0d90fd6a88b13408114d4fe
+Size: 13534
+Filename: enigma2-plugin-extensions--j00zeks-dynamiclcdbrightness_26.11.22.0809_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  dynamiczna regulacja jasno\xc5\x9bci LCD w u\xc5\x9bpieniu
 Priority: optional
@@ -654,14 +654,14 @@ Description:  zebrane i dostosowane zrodla EPG roznych autorow
 Priority: optional
 
 Package: enigma2-plugin-extensions--j00zeks-iptvplayer-public
-Version: 2026.11.21.01
+Version: 2026.11.21.03
 Depends: enigma2-plugin-extensions-e2iplayer-deps python3-pycurl duktape libwebp-bin python3-pillow
 Section: utils
 Architecture: all
 Maintainer: j00zek
-MD5Sum: 64a2817b87e6b247235ebc19cd2cea4a
-Size: 21017598
-Filename: enigma2-plugin-extensions--j00zeks-iptvplayer-public_2026.11.21.01_all.ipk
+MD5Sum: cccb411865103d9579a8ff2b7b2aee7b
+Size: 21008102
+Filename: enigma2-plugin-extensions--j00zeks-iptvplayer-public_2026.11.21.03_all.ipk
 Source: http://github.com/j00zek/eePlugins
 Description:  IPTVplayerPublic
 Priority: optional
